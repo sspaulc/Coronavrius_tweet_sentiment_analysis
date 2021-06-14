@@ -20,6 +20,7 @@ Index
 4. Data Preprocessing.
 
 Tokenization And Stopword Removal.
+
 5. Vectorization.
 
 6. Classification- MULTICLASS
